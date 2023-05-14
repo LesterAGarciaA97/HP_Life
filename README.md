@@ -1,2 +1,6 @@
 # HP_Life
-HP Life - Working repository 
+## https://www.life-global.org/
+## HP Life - Learning repository 
+### Courses, learning paths, live sessions content and more...
+
+#### Folder 01 -----> 

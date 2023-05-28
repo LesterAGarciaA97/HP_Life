@@ -3,4 +3,4 @@
 ## HP Life - Learning repository 
 ### Courses, learning paths, live sessions content and more...
 
-#### Folder 01 -----> 
+#### Folder 01 -----> Comunicación
